@@ -406,7 +406,7 @@ logo = """
  ##:::: ##:: ##:: ##::::::: ##.... ##: ##:::::::
  ########::'####: ########: ##:::: ##: ########:
 ........:::....::........::..:::::..::........::
- \x1b[1;97m                        \033[0;91m Version : 1.0
+ \x1b[1;97m                        \033[0;91m Version : 2.3
  \x1b[1;97m---------------------------------------------------
  \33[1;41m Bilal-Dogar. \33[0m
  \x1b[1;97m---------------------------------------------------
@@ -435,7 +435,7 @@ class Main:
 			print("\n \33[1;42m\033[1;97m Thank you for Using this Tool. Have a Good Day. \33[0m\n")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/mahinalhasan420")
+			os.system("xdg-open https://www.facebook.com/profile.php?id=100084390378894")
 			print("")
 			time.sleep(3.0)
 			print("")
